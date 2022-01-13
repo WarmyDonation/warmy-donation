@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @WarmyDonation
+- 👀 I’m interested in smart contracts, donation, Elrond, EGLD, lovely communities, and many more
+- NFT Artist: https://www.marianr.es/
+- Inspect on Elrond Explorer: https://explorer.elrond.com/accounts/erd1qqqqqqqqqqqqqpgqdq0arumjsvfxuvx4lvmprq6yh449vgfjq6nq96kat3/nfts
+- Video of the Smart contract deployment: https://youtu.be/rGGNCeSUlRI
+- 📫 How to reach me : Contact @piupmc on twitter
